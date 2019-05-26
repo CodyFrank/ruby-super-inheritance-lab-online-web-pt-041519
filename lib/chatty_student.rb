@@ -1,5 +1,5 @@
 class ChattyStudent < Student
-  def hello(str)
+  def hello
     super
     puts str
   end
